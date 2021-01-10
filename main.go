@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World!")
+	fmt.Println("Ahoj svet!")
 	fmt.Print("# ")
 	reader := bufio.NewReader(os.Stdin)
 
